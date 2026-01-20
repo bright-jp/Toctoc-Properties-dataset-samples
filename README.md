@@ -1,4 +1,4 @@
-# Toctoc Properties Listings Dataset Sample
+# Toctoc Properties Listings データセットサンプル
 
 <h2>1,003件のレコードを含むサンプルデータセット</h2>
 
